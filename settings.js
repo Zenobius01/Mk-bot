@@ -49,8 +49,8 @@ global.ig = '@techlord01' //YOUR INSTAGRAM NAME
 global.yt = 'malvintech2' //YOUR YOUTUBE NAME, IF NONE THEN LEAVE BLANK
 global.ttowner = 'malvinquotes' //YOUR TIKTOK NAME
 global.ownername = 'ᴅᴇᴠ : ᴍᴀʟᴠɪɴ ᴋɪɴɢ' //YOUR NAME
-global.owner = ['263780166288'] // ALSO SET THIS IN DATABASE FOLDER 
-global.ownernomer = '263780166288' //YOUR NUMBER
+global.owner = ['255760211221'] // ALSO SET THIS IN DATABASE FOLDER 
+global.ownernomer = '255760211221' //YOUR NUMBER
 global.socialm = 'GitHub: -'
 global.location = 'Indonesia' 
 global.nameCreator = 'ᴅᴇᴠ : ᴍᴀʟᴠɪɴ ᴋɪɴɢ'
@@ -59,8 +59,8 @@ global.nameCreator = 'ᴅᴇᴠ : ᴍᴀʟᴠɪɴ ᴋɪɴɢ'
 
 //==================BOT SETTINGS===========================\\
 global.botname = "MK | BOT" //YOUR BOT NAME
-global.ownernumber = '263780166288' //YOUR NUMBER
-global.botnumber = '263780166288' //YOUR NUMBER
+global.ownernumber = '255760211221' //YOUR NUMBER
+global.botnumber = '255760211221' //YOUR NUMBER
 global.ownername = 'ᴅᴇᴠ : ᴍᴀʟᴠɪɴ ᴋɪɴɢ' //YOUR NAME
 global.idSaluran = "120363398430045533@newsletter" //YOUR CHANNEL ID
 global.idch = "120363398430045533@newsletter" //YOUR CHANNEL ID
